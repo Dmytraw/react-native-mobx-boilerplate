@@ -1,3 +1,5 @@
+# This repo has been replaced with https://github.com/ChronSyn/Expo-SDK32-MobX-Boilerplate - This supports SDK32 of Expo.
+
 # React Native Boilerplate for Expo
 
 [![dependencies Status](https://david-dm.org/chronsyn/react-native-mobx-boilerplate/status.svg?style=flat-square)](https://david-dm.org/chronsyn/react-native-mobx-boilerplate)
