@@ -12,7 +12,7 @@ class ApplicationState {
   */
   @observable AppGlobalState = {
     SplashShowing : true,
-    DemostrationVariable  : false
+    DemonstrationVariable : false
   }
 
 
